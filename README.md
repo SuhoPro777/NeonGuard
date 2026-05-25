@@ -27,13 +27,13 @@ NeonGuard gives your Python application a security layer in minutes — command 
 ## 📦 Installation
 
 ```bash
-pip install neonguard
+pip install nhttps://github.com/SuhoPro777/NeonGuard.git
 ```
 
 Or install from source:
 
 ```bash
-git clone https://github.com/yourusername/neonguard
+git clone https://github.com/SuhoPro777/neonguard
 cd neonguard
 pip install -e .
 ```
